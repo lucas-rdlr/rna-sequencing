@@ -1,0 +1,14 @@
+Github from the systematic evaluation:
+    https://github.com/Winnie09/imputationBenchmark/tree/master
+
+Github for the LOT implementation:
+    https://github.com/nerdslab/latentOT/tree/main
+
+Hyperimpute in R:
+    https://github.com/vanderschaarlab/hyperimpute
+
+ALRA implementation in Python:
+    https://github.com/pavlin-policar/ALRA/tree/master
+
+MAGIC implementation in Python:
+    https://github.com/KrishnaswamyLab/MAGIC
