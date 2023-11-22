@@ -12,3 +12,15 @@ ALRA implementation in Python:
 
 MAGIC implementation in Python:
     https://github.com/KrishnaswamyLab/MAGIC
+
+Hyperimpute Github:
+    https://github.com/vanderschaarlab/hyperimpute
+
+ScanPy tutorial Github:
+    https://github.com/scverse/scanpy-tutorials/blob/master/pbmc3k.ipynb
+
+    AnnData tutorial:
+        https://falexwolf.me/2017/introducing-anndata/
+
+Single Cell analysis tutorial:
+    https://www.sc-best-practices.org/introduction/prior_art.html
